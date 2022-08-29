@@ -4,6 +4,12 @@
 
 **Differentiator:** Super quick to navigate + **Learning paths are broken down into weeks**
 
+## TODOs
+
+* Add information about retirements
+* Group tests into categories similar to on https://docs.microsoft.com/en-us/certifications/
+* Include extra resources found in the "tip" call outs similar to on https://docs.microsoft.com/en-us/certifications/exams/az-104 (ex: Videos, Study Guides, Example Questions, etc.)
+
 ## Exams
 
 [62-193: Technology Literacy for Educators](Exams/62-193.md)<br/>
@@ -186,10 +192,3 @@
 [SC-300: Microsoft Identity and Access Administrator](Exams/SC-300.md)<br/>
 [SC-400: Microsoft Information Protection Administrator](Exams/SC-400.md)<br/>
 [SC-900: Microsoft Security, Compliance, and Identity Fundamentals](Exams/SC-900.md)<br/>
-
-
-## TODO
-
-* Add information about retirements
-* Group tests into categories similar to on https://docs.microsoft.com/en-us/certifications/
-* Include extra resources found in the "tip" call outs similar to on https://docs.microsoft.com/en-us/certifications/exams/az-104 (ex: Videos, Study Guides, Example Questions, etc.)
