@@ -196,10 +196,3 @@
 [MS-300: Deploying Microsoft 365 Teamwork](Exams/ms-300.md)<br/>
 [MS-301: Deploying SharePoint Server Hybrid](Exams/ms-301.md)<br/>
 [MS-302: Microsoft 365 Teamwork Administrator Certification Transition](Exams/ms-302.md)<br/>
-
-
-## TODO
-
-* Add information about retirements
-* Group tests into categories similar to on https://docs.microsoft.com/en-us/certifications/
-* Include extra resources found in the "tip" call outs similar to on https://docs.microsoft.com/en-us/certifications/exams/az-104 (ex: Videos, Study Guides, Example Questions, etc.)
