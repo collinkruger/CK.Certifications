@@ -6,6 +6,7 @@
 
 ## TODOs
 
+* Migrate to learn.microsoft.com hosted URLs
 * Add information about retirements
 * Group tests into categories similar to on https://docs.microsoft.com/en-us/certifications/
 * Include extra resources found in the "tip" call outs similar to on https://docs.microsoft.com/en-us/certifications/exams/az-104 (ex: Videos, Study Guides, Example Questions, etc.)
